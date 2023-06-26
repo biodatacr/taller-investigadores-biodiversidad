@@ -13,23 +13,25 @@
 
 ## Día 1
 
-00. 08:00 a.m. Lectura y discusión de la agenda
+0. 08:00 a.m. Lectura y discusión de la agenda
 
-01. 08:15 a.m. [Fuentes de datos de biodiversidad](https://drive.google.com/file/d/1WLBAby6zxUkjtieT2rgn-SOfTUtjrOFJ/view?usp=sharing)
+1. 08:15 a.m. Gestión de la información sobre biodiversidad en Conagebio
+
+2. 08:30 a.m. [Fuentes de datos de biodiversidad](https://drive.google.com/file/d/1WLBAby6zxUkjtieT2rgn-SOfTUtjrOFJ/view?usp=sharing)
     * Fuentes de datos
     * [El estándar Darwin Core](https://dwc.tdwg.org/)
     
-02. 08:45 a.m. [Conceptos de publicación de datos](https://docs.google.com/presentation/d/1TF1nG0WR0UoXI_tZQJMWBH_eQH5MpNxxWtEhTpscbRQ/present?token=AC4w5ViHLBeoOcc-yTF0Km-a_FlYfh-MsA%3A1606657598499&includes_info_params=1&eisi=CLbgvPvxp-0CFQy5Jgodx38BaQ#slide=id.p4)
+3. 09:00 a.m. [Conceptos de publicación de datos](https://docs.google.com/presentation/d/1TF1nG0WR0UoXI_tZQJMWBH_eQH5MpNxxWtEhTpscbRQ/present?token=AC4w5ViHLBeoOcc-yTF0Km-a_FlYfh-MsA%3A1606657598499&includes_info_params=1&eisi=CLbgvPvxp-0CFQy5Jgodx38BaQ#slide=id.p4)
     * Licencias para compartir datos de biodiversidad
     * El Darwin Core Archive
     * El Integrated Publishing Toolkit (IPT)
     
-03. 09:45 a.m. [Demostración del IPT](https://docs.google.com/presentation/d/12dJsVmm_PJqDXk1evPOxmby4dAwL5DKlEX3pSWbLSQU/present?token=AC4w5VhSCMT0sKT9V9T4uWyYNEMze_4kHg%3A1606659553219&includes_info_params=1&eisi=CJrux5_5p-0CFcY8ygod82wE6w#slide=id.p4)
+4. 09:45 a.m. [Demostración del IPT](https://docs.google.com/presentation/d/12dJsVmm_PJqDXk1evPOxmby4dAwL5DKlEX3pSWbLSQU/present?token=AC4w5VhSCMT0sKT9V9T4uWyYNEMze_4kHg%3A1606659553219&includes_info_params=1&eisi=CJrux5_5p-0CFcY8ygod82wE6w#slide=id.p4)
 
-04. 10:45 a.m. Receso
-05. 11:00 a.m. [Sesión práctica: Publicación de datos por medio del IPT](https://github.com/biodatacr/taller-publicacion-datos/tree/main/sesion-05)
+5. 10:45 a.m. Receso
+6. 11:00 a.m. [Sesión práctica: Publicación de datos por medio del IPT](https://github.com/biodatacr/taller-publicacion-datos/tree/main/sesion-05)
 
-06. 12:00 p.m. Cierre del día 1
+7. 12:00 p.m. Cierre del día 1
 
 ## Día 2
 
