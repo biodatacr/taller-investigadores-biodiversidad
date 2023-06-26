@@ -8,7 +8,6 @@
 
 1. Introducir a los participantes en el uso de estándares y herramientas informáticas para apoyar la investigación en biodiversidad.
 1. Introducir a los participantes en el proceso de publicación de datos de biodiversidad mediante estándares y herramientas de software libre desarrollados por la comunidad global de informática de la biodiversidad.
-2. Desarrollar capacidades en la administración del portal de datos de biodiversidad de la plataforma BIODATACR.
 
 ## Agenda
 
