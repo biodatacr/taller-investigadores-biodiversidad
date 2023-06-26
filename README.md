@@ -46,7 +46,7 @@
 
 10. 10:15 a.m. Proyecto Biodiversidad en cifras
 
-11. 11:30 a.m. Comentarios finales
+11. 11:00 a.m. Comentarios finales
    
 12. 12:00 p.m. Cierre del taller
 
