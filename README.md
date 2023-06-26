@@ -1,8 +1,8 @@
 # Taller de capacitación para investigadores en biodiversidad
 
 **Fechas:** 
-- Miércoles 19 o 26 de julio, de 8:00 a.m. a 12:00 p.m.
-- Viernes 21 o 28 de julio, de 8:00 a.m. a 12:00 p.m.
+- Jueves 27 de julio, de 8:00 a.m. a 12:00 p.m.
+- Viernes 28 de julio, de 8:00 a.m. a 12:00 p.m.
 
 ## Objetivos
 
