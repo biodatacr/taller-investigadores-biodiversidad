@@ -44,8 +44,11 @@
 
 09. 10:00 a.m. Café
 
-10. 10:15 a.m. Presentación de Vilma y Tania
+10. 10:15 a.m. Proyecto Biodiversidad en cifras
 
+11. 11:30 a.m. Comentarios finales
+   
+12. 12:00 p.m. Cierre del taller
 
 ## Recursos adicionales
 ### Presentaciones
