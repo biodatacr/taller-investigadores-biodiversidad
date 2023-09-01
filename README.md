@@ -39,7 +39,7 @@
 
 ## Día 2
 
-07. 08:00 a.m. [Introducción al portal principal de BIODATACR](https://drive.google.com/file/d/1nzYuKuXSL81HMO-FOkULkNQgePCDNHVE/view?usp=sharing)
+07. 08:00 a.m. [Introducción al portal principal de BIODATACR](https://drive.google.com/file/d/1tVQDpPVi5Z-hhnKU6zfbDsYQkcqU3UHb/view?usp=sharing)
     * Arquitectura
     * Tecnologías utilizadas
     * Administración de datos
