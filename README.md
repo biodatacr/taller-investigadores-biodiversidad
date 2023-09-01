@@ -5,7 +5,7 @@
 
 **Fechas:** 
 - Jueves 31 de agosto, de 8:00 a.m. a 12:00 p.m.
-- Viernes viernes 1 de septiembre, de 8:00 a.m. a 12:00 p.m.
+- Viernes 1 de septiembre, de 8:00 a.m. a 12:00 p.m.
 
 ## Objetivos
 
