@@ -55,6 +55,11 @@
 12. 12:00 p.m. Cierre del taller
 
 ## Recursos adicionales
+### Videos
+* [31-08-2023 (primera parte)](https://www.youtube.com/watch?v=THPfEYXrKzU)
+* [31-08-2023 (segunda parte)](https://youtu.be/8PYUZPdv0-A)
+
+* [01-09-2023](https://youtu.be/nqn-8XnYUFI)
 ### Presentaciones
 * [Presentaciones del taller](https://drive.google.com/drive/folders/1iOsUtpDz5K82K4llXS1nde5olNq56rFE?usp=sharing)
 ### Conjuntos de datos
